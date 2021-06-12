@@ -3,7 +3,9 @@
 STEPS TO RUN:
 
 1) Run the command to clone from git  : git clone https://github.com/rsatyajit/qed42assignment.git
-2) cd qed42assignment && npm i && npm start
+2) cd qed42assignment 
+3) git checkout Dev
+4) npm i && npm start
 
 STEPS TO USE THE API:
 
